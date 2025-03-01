@@ -1,3 +1,0 @@
-camera:
-  name: usbcam
-  path: /dev/video8
