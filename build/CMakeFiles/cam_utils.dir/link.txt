@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cam_utils.dir/src/cam_sdl3_httpd.cpp.o -o cam_utils  -Wl,-rpath,/home/luo980/gits/cam_utils/build/third_party/sdl -lpthread third_party/sdl/libSDL3.so.0.2.5 third_party/yaml-cpp/libyaml-cpp.a 
